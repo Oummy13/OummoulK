@@ -37,7 +37,7 @@ const about = () => {
                         </article>
                     </div>
 
-                    <p>I'm a 22 y/o student at  Need For School Rouen in web development. Passionate about IT and web development, I'm perfectly bilingual (Anglo-Saxon) and naturally curious. I like to constantly learn on my own and develop my skills. I move forward by setting goals to continuously improve. In short, I want to become a web developer on advanced technologies.
+                    <p>I'm a 22 years-old student at  Need For School Rouen in web development. Passionate about IT and web development, I'm perfectly bilingual (Anglo-Saxon) and naturally curious. I like to constantly learn on my own and develop my skills. I move forward by setting goals to continuously improve. In short, I want to become a web developer on advanced technologies.
                         My hobbies are travel, music and cinema.</p>
 
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
