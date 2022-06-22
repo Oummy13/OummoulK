@@ -10,21 +10,21 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'This is a portfolio item title',
+        title: 'Coffee website template',
         github: 'https://github.com/Oummy13/coffee-website',
         demo: 'https://site.com/'
     },
     {
         id: 2,
         image: IMG2,
-        title: 'This is a portfolio item title',
+        title: 'Netron website for networt analysis',
         github: 'https://github.com/Oummy13/nfactory-netron',
         demo: 'https://site.com/'
     },
     {
         id: 3,
         image: IMG3,
-        title: 'This is a portfolio item title',
+        title: 'Mario club template',
         github: 'https://github.com/Oummy13/mario',
         demo: 'https://site.com/'
     }
