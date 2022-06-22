@@ -1,7 +1,7 @@
 import React from 'react'
 import './contact.css'
 import { MdOutlineMail } from 'react-icons/md'
-import { BsWhatsapp } from 'react-icons/bs'
+// import { BsWhatsapp } from 'react-icons/bs'
 import { FiPhoneCall } from 'react-icons/fi'
 import { useRef } from 'react'
 import emailjs from 'emailjs-com'
@@ -38,7 +38,7 @@ const Contact = () => {
                         <FiPhoneCall className="contact_option-icon" />
                         <h4>Phone Number</h4>
                         <h5>+33602437316</h5>
-                        <a href="">Call</a>
+                        <a href="tel:+33602437316">Call</a>
                     </article>
                 </div>
 

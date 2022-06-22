@@ -12,22 +12,23 @@ const data = [
         image: IMG1,
         title: 'Coffee website template',
         github: 'https://github.com/Oummy13/coffee-website',
-        demo: 'https://site.com/'
+        demo: 'https://oummy13.github.io/coffee-website/'
     },
     {
         id: 2,
+        image: IMG3,
+        title: 'Mario club template',
+        github: 'https://github.com/Oummy13/mario',
+        demo: 'https://oummy13.github.io/mario/'
+    },
+    {
+        id: 3,
         image: IMG2,
         title: 'Netron website for networt analysis',
         github: 'https://github.com/Oummy13/nfactory-netron',
         demo: 'https://site.com/'
     },
-    {
-        id: 3,
-        image: IMG3,
-        title: 'Mario club template',
-        github: 'https://github.com/Oummy13/mario',
-        demo: 'https://site.com/'
-    }
+
 ]
 
 const Portfolio = () => {
@@ -45,7 +46,7 @@ const Portfolio = () => {
                                 <h3>{title}</h3>
                                 <div className="portfolio_item-cta">
                                     <a href={github} target="_blank" rel="noreferrer" className="btn">Github</a>
-                                    {/* <a href={demo} target="_blank" rel="noreferrer" className="btn btn primary">Live Demo</a> */}
+                                    <a href={demo} target="_blank" rel="noreferrer" className="btn btn primary">Live Demo</a>
                                 </div>
                             </article>
                         )
