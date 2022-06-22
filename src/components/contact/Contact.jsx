@@ -28,18 +28,18 @@ const Contact = () => {
                         <h5>oummoul.koulsouwi@gmail.com</h5>
                         <a href="mailto:oummoul.koulsouwi@gmail.com" target="_blank">Send a message</a>
                     </article>
-                    <article className="contact_option">
+                    {/* <article className="contact_option">
                         <BsWhatsapp className="contact_option-icon" />
                         <h4>Whatsapp</h4>
                         <h5>+33778379751</h5>
-                        <a href="https://api.whatsapp.com/send?phone+33778379751" target="_blank">Send a message</a>
-                    </article>
-                    {/* <article className="contact_option">
+                        <a href="https://api.whatsapp.com/send?phone+33778379751" target="_blank" rel="noreferrer">Send a message</a>
+                    </article> */}
+                    <article className="contact_option">
                         <FiPhoneCall className="contact_option-icon" />
-                        <h4>Telephone Number</h4>
+                        <h4>Phone Number</h4>
                         <h5>+33602437316</h5>
                         <a href="">Call</a>
-                    </article> */}
+                    </article>
                 </div>
 
                 {/* END OF CONTACT OPTIONS */}
