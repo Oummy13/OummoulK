@@ -66,6 +66,9 @@ header {
     header {
         height: 100vh;
     }
+    .header_container > h1 {
+        font-size: 1.3rem;
+    }
     .header_socials,
     .scroll_down {
         display: none;

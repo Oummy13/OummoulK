@@ -13,6 +13,7 @@ const data = [
         title: 'Coffee website template',
         github: 'https://github.com/Oummy13/coffee-website',
         demo: 'https://oummy13.github.io/coffee-website/'
+
     },
     {
         id: 2,
