@@ -3,6 +3,8 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
+import IMG4 from '../../assets/portfolio4.jpg'
+
 
 
 
@@ -24,11 +26,19 @@ const data = [
     },
     {
         id: 3,
+        image: IMG4,
+        title: 'Responsive admin dashboard',
+        github: 'https://github.com/Oummy13/admin-dashboard',
+        demo: 'https://oummy13.github.io/admin-dashboard/'
+    },
+    {
+        id: 4,
         image: IMG2,
         title: 'Netron website for networt analysis',
         github: 'https://github.com/Oummy13/nfactory-netron',
-        demo: 'https://site.com/'
+        demo: 'https://github.com/Oummy13/nfactory-netron'
     },
+
 
 ]
 
