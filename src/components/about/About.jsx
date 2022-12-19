@@ -37,8 +37,8 @@ const about = () => {
                         </article>
                     </div>
 
-                    <p>I'm a 22 years-old student at  Need For School Rouen in web development. Passionate about IT and web development, I'm perfectly bilingual (Anglo-Saxon) and naturally curious. I like to constantly learn on my own and develop my skills. I move forward by setting goals to continuously improve. In short, I want to become a web developer on advanced technologies.
-                        My hobbies are travel, music and cinema.</p>
+                    <p>I design, build and publish projects of quality and reliability. Currently, I'm a web developer at Apave SA and student at Ecole PMN ( La Passerelle Des Métiers Du Numérique Paris Nanterre ) in web development.Passionate about IT and web development, I'm perfectly bilingual (Anglo-Saxon) and naturally curious. I like to constantly learn on my own and develop my skills. I move forward by setting goals to continuously improve.
+                    My hobbies are travel, music and cinema.</p>
 
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
                 </div>
