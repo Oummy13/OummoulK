@@ -20,10 +20,9 @@ const Footer = () => {
                 <li><a href="#contact">Contact</a></li>
             </ul>
             <div className="footer_socials">
-                <a href="https//facebook.com"><FaFacebookF /></a>
-                <a href="https//instagram.com"><FiInstagram /></a>
-                <a href="https//twitch.com"><FiTwitch /></a>
-
+                <a href="https://www.facebook.com/Oummyhamad"><FaFacebookF /></a>
+                <a href=" https://instagram.com/oummy_13?igshid=OGQ5ZDc2ODk2ZA=="><FiInstagram /></a>
+                <a href="https://www.twitch.com/oummy13"><FiTwitch /></a>
             </div>
             <div className="footer_copyright">
                 <small>&copy; Oummy portfolio. All rights reserved.</small>
