@@ -37,8 +37,8 @@ const Contact = () => {
                     <article className="contact_option">
                         <FiPhoneCall className="contact_option-icon" />
                         <h4>Phone Number</h4>
-                        <h5>+33602437316</h5>
-                        <a href="tel:+33602437316">Call</a>
+                        <h5>+33611176155</h5>
+                        <a href="tel:+33611176155">Call</a>
                     </article>
                 </div>
 

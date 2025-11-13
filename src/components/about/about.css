@@ -1,4 +1,4 @@
-.about_container {
+/* .about_container {
     display: grid;
     grid-template-columns: 35% 50%;
     gap: 15%;
@@ -19,7 +19,7 @@
 }
 .about_me-image:hover {
     transform: rotate(0);
-}
+} */
 .about_cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

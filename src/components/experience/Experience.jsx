@@ -48,6 +48,21 @@ const Experience = () => {
                                 <h4>ReactJs</h4>
                                 <small className="text-light">Intermediate</small>
                             </div>
+                        </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>LWC</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                         <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>Visual Force</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
 
                         </article>
                     </div>
@@ -84,7 +99,7 @@ const Experience = () => {
                             <BsPatchCheckFill className="experience_details_icon" />
                             <div>
                                 <h4>C</h4>
-                                <small className="text-light">Experienced</small>
+                                <small className="text-light">Proficient</small>
                             </div>
 
                         </article>
@@ -104,9 +119,97 @@ const Experience = () => {
                             </div>
 
                         </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>Apex</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                    </div>
+                </div>
+
+                 <div className="experience_backend">
+                    <h3>DevOps & Tools</h3>
+                    <div className="experience_content">
+                        <article className="experience_details">
+                            <BsPatchCheckFill className="experience_details_icon" />
+                            <div>
+                                <h4>Version Control (Git, GitHub, GitLab)</h4>
+                                <small className="text-light">Experienced</small>
+                            </div>
+
+                        </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill className="experience_details_icon" />
+                            <div>
+                                <h4>CI/CD (Jenkins, GitLab CI/CD)</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill className="experience_details_icon" />
+                            <div>
+                                <h4>REST API Development</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                        {/* <article className="experience_details">
+                            <BsPatchCheckFill className="experience_details_icon" />
+                            <div>
+                                <h4>Database Design</h4>
+                                <small className="text-light">Experienced</small>
+                            </div>
+
+                        </article> */}
+                        
+                        <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>Testing & Debugging</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>Agile/Scrum workflow</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>Docker</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>Linux basics</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+
+                        </article>
+                        <article className="experience_details">
+                            <BsPatchCheckFill />
+                            <div>
+                                <h4>Automation Scripts (VBA, Google Apps Script)</h4>
+                                <small className="text-light">Proficient</small>
+                            </div>
+
+                        </article>
                     </div>
                 </div>
             </div>
+            
         </section>
     )
 }
