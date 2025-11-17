@@ -26,7 +26,7 @@ const Contact = () => {
                         <MdOutlineMail className="contact_option-icon" />
                         <h4>Email</h4>
                         <h5>oummoul.koulsouwi@gmail.com</h5>
-                        <a href="mailto:oummoul.koulsouwi@gmail.com" target="_blank">Send a message</a>
+                        <a href="mailto:oummoul.koulsouwi@gmail.com" target="_blank" rel="noopener noreferrer">Send a message</a>
                     </article>
                     {/* <article className="contact_option">
                         <BsWhatsapp className="contact_option-icon" />
