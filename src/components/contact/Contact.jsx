@@ -1,7 +1,6 @@
 import React from 'react'
 import './contact.css'
 import { MdOutlineMail } from 'react-icons/md'
-// import { BsWhatsapp } from 'react-icons/bs'
 import { FiPhoneCall } from 'react-icons/fi'
 import { useRef } from 'react'
 import emailjs from 'emailjs-com'
@@ -28,12 +27,6 @@ const Contact = () => {
                         <h5>oummoul.koulsouwi@gmail.com</h5>
                         <a href="mailto:oummoul.koulsouwi@gmail.com" target="_blank" rel="noopener noreferrer">Send a message</a>
                     </article>
-                    {/* <article className="contact_option">
-                        <BsWhatsapp className="contact_option-icon" />
-                        <h4>Whatsapp</h4>
-                        <h5>+33778379751</h5>
-                        <a href="https://api.whatsapp.com/send?phone+33778379751" target="_blank" rel="noreferrer">Send a message</a>
-                    </article> */}
                     <article className="contact_option">
                         <FiPhoneCall className="contact_option-icon" />
                         <h4>Phone Number</h4>
